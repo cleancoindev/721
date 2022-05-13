@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "buffer": "~5.2",
-    "dotenv": "~8.0",
+    "dotenv": "~8.6.0",
     "fs": "^0.0.1-security",
     "interface-ipfs-core": "^0.109.0",
     "ipfs": "~0.34",
