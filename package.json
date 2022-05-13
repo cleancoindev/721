@@ -58,7 +58,7 @@
     "standard"
   ],
   "dependencies": {
-    "@specron/cli": "0.5.6",
+    "@specron/cli": "0.17.1",
     "@specron/spec": "0.5.6",
     "@truffle/hdwallet-provider": "^1.0.18",
     "cryptiles": "4.1.2",
@@ -66,7 +66,7 @@
     "ethers": "~4.0",
     "node-wget": "^0.4.3",
     "sol-verifier": "^2.1.0",
-    "solc": "0.5.6",
+    "solc": "0.5.11",
     "solhint": "~1.4",
     "truffle-flattener": "^1.4.2",
     "truffle-hdwallet-provider": "1.0.17",
