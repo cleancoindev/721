@@ -9,7 +9,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "buffer": "~5.2",
+    "buffer": "~5.7.1",
     "dotenv": "~8.0",
     "fs": "^0.0.1-security",
     "interface-ipfs-core": "^0.109.0",
